@@ -1,6 +1,6 @@
 # 👋 Hi, I am Razi William
 
-🚀 **Senior Full-Stack Laravel & Vue.js Developer**  
+🚀 **Senior Full-Stack Laravel | Vue.js | React.js Developer**  
 💻 Building scalable, performant, and elegant web applications for 9+ years  
 🌎 Open to **remote opportunities**
 
